@@ -36,8 +36,8 @@
     </a>
     <ul>
         <li>💼 Software Engineer based in the U.S.</li>
-        <li>👩‍💻 Building scalable, reliable systems in Java, AWS</li>
-        <li>🌩️ Passionate about cloud and distributed systems</li>
+        <li>👩‍💻 Building scalable, reliable systems</li>
+        <li>🌩️ Passionate about distributed systems</li>
         <li>📝 I enjoy learning and speaking about tech</li>
     </ul>
 </div>
