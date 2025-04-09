@@ -3,13 +3,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=20&duration=1000&pause=50&color=FFFFFF&width=500&height=35&lines=Software+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
 
-
-
 <br/>
 
 <!-- Links -->
 <div>
-    <a href="https://your-portfolio-link.com](https://my-nextjs-app-shruti.vercel.app/">
+    <a href="https://my-nextjs-app-shruti.vercel.app/">
         <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=008eb7">
     </a>
     <a href="https://www.linkedin.com/in/shruti-nagpure04/">
@@ -33,8 +31,8 @@
 <!-- Information -->
 <div>
     <h2>About Me:</h2>
-    <a href="https://github.com/your-github-id">
-        <img align="right" src="https://github-stats-alpha.vercel.app/api?username=your-github-id&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <a href="https://github.com/shrutinag04">
+        <img align="right" src="https://github-stats-alpha.vercel.app/api?username=shrutinag04&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     </a>
     <ul>
         <li>💼 Software Engineer based in the U.S.</li>
