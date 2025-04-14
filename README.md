@@ -35,7 +35,7 @@
         <img align="right" src="https://github-stats-alpha.vercel.app/api?username=shrutinag04&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     </a>
     <ul>
-        <li>💼 Software Engineer based in the U.S.</li>
+        <li>💼 Software Engineer</li>
         <li>👩‍💻 Building scalable, reliable systems</li>
         <li>🌩️ Passionate about distributed systems</li>
         <li>📝 I enjoy learning and speaking about tech</li>
